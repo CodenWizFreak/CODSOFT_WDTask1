@@ -138,7 +138,6 @@ nav a:hover::before {
 }
 
 /* About Section Styles */
-/* About Section Styles */
 .profile-img {
     width: 150px;
     height: 150px;
@@ -155,7 +154,7 @@ nav a:hover::before {
     height: 100%;
     border-radius: 50%;
     display: block;
-    object-fit: cover; /* Ensure the image covers the full circular element */
+    object-fit: cover; 
 }
 
 
@@ -189,7 +188,7 @@ nav a:hover::before {
 }
 
 .project {
-    flex: 1 1 calc(30% - 20px); /* Adjust the width as needed */
+    flex: 1 1 calc(30% - 20px); 
     margin-bottom: 20px;
     background-color: #333;
     border-radius: 5px;
