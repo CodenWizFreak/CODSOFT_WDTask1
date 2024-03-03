@@ -1,2 +1,2 @@
 # CODSOFT_WDTask1
-Simple calculator web application using HTML, CSS and JS
+Created a portfolio website using HTML and CSS
